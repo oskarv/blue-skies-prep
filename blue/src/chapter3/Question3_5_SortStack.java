@@ -2,7 +2,7 @@ package chapter3;
 
 import java.util.Stack;
 
-public class Question_3_5_SortStack {
+public class Question3_5_SortStack {
 
     public static void main(String[] argv) {
         Stack<Integer> inputStack = createStack();

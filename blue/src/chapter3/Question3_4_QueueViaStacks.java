@@ -2,7 +2,7 @@ package chapter3;
 
 import java.util.Stack;
 
-public class Question_3_4_QueueViaStacks {
+public class Question3_4_QueueViaStacks {
 
     public static void main(String[] argv) {
         Stack<Integer> addToQueueStack = createAddToQueueStack();
