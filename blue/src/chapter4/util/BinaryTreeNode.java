@@ -9,6 +9,11 @@ public class BinaryTreeNode {
         this.data = data;
     }
 
+    @Override
+    public String toString() {
+        return "BinaryTreeNode {data=" + data + "}";
+    }
+
     public static BinaryTreeNode createBinaryTree() {
         BinaryTreeNode head = new BinaryTreeNode(4);
         BinaryTreeNode node1 = new BinaryTreeNode(2);
