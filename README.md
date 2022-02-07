@@ -1,1 +1,3 @@
 # blue-skies-prep
+
+@jsonserialize
